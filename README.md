@@ -1,2 +1,3 @@
 # windbg_mariomain_theme
-Theme that I use for kernel debugging with windbg.
+Theme for debugging with windbg.
+![windbgScreen](https://github.com/v1X3Q0/windbg_mariomain_theme/windbgScreen.jpg)
